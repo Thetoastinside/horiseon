@@ -3,7 +3,7 @@
 ## Author: Ryan Anderson
 
 ##  deployment:
-(Live)[]
+[LIVE](https://thetoastinside.github.io/horiseon/)
 
 ### User story:
 ```
@@ -14,4 +14,9 @@ SO THAT our own site is optimized for search engines
 
 
 ### Screenshots:
+
+![Screenshot 1](https://github.com/Thetoastinside/horiseon/blob/master/Capture_1.PNG)
+
+
+![Screenshot 2](https://github.com/Thetoastinside/horiseon/blob/master/Capture_2.PNG)
 
